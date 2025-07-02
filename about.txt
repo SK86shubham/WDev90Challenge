@@ -1,0 +1,38 @@
+ Topics which i learned today
+	
+Functions
+	Reusable blocks like addTask(), renderTasks().
+Arrays	
+Stored multiple tasks in an array.
+Objects	
+Each task was an object with properties.
+Array Methods	
+Used .push(), .splice(), .filter(), .forEach().
+DOM Manipulation
+	Interacted with HTML elements using JS.
+Event Listeners	
+Triggered functions via onclick and oninput.
+Conditional Logic
+	Used if statements and ternary ? : operators.
+Template Literals
+	Dynamically inserted values into HTML strings.
+localStorage	
+Saved and retrieved tasks persistently.
+JSON.stringify()
+	Converted array to string before saving.
+JSON.parse()
+	Converted string back to array when loading.
+String Methods
+	Used .trim(), .toLowerCase(), .includes() for search.
+
+
+
+
+
+
+
+
+
+
+Ask ChatGPT
+
